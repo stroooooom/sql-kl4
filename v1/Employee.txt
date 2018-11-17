@@ -1,0 +1,11 @@
+1|CallCenter|supporter|Ivanov Ivan|10500
+2|CallCenter|manager|Ivanov Sergei|34500
+3|IT|manager|Petrov Nino|81900
+4|HR|manager|Ivanov Sasha|546722
+5|CallCenter|supper|Sidorova Ala|43000
+6|IT|manager|Petrova Katya|123000
+7|HR|manager|Ivanova Albina|90000
+8|CallCenter|tech|Sidorenko Petya|9000
+8|CallCenter|tech|Sidorenko Polina|9000
+9|IT|programmer|Petrenko Petr|100500
+10|HR|designer|Ivanenko Ivan|10400

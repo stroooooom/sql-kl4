@@ -1,0 +1,11 @@
+1|CallCenter|89161792273|Ivanov
+2|CallCenter|89061792273|Ivanov
+3|IT|89617922173|Petrov
+4|HR|89061792271|Ivanov
+5|CallCenter|85061792273|Sidorova
+6|IT|89615922173|Petrova
+7|HR|89161792223|Ivanova
+8|CallCenter|85051792273|Sidorenko
+8|CallCenter|85051792273|Sidorenko
+9|IT|89615922163|Petrenko
+10|HR|89161592223|Ivanenko
